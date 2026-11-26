@@ -1,0 +1,9 @@
+Analysis Area,Observed Pattern,Strategic Recommendation
+Booking Window,Analyze fare changes as departure approaches.,Encourage passengers to book tickets in advance.
+Class Disparity,Compare Economy and Business class ticket prices.,Offer suitable fare options for different customer segments.
+Departure Timing,Identify departure periods with higher median fares.,Highlight lower-fare departure periods.
+Arrival Timing,Identify arrival periods with higher median fares.,Help passengers compare arrival-time options.
+Number of Stops,Compare fares across different stop categories.,Promote suitable non-stop and connecting flight options.
+Flight Duration,Study the relationship between duration and ticket price.,Help customers balance travel time and ticket cost.
+Airline Pricing,Compare airline-wise average and median fares.,Compare airline prices before booking.
+Route Analysis,Identify expensive and affordable flight routes.,Recommend affordable routes and airlines.

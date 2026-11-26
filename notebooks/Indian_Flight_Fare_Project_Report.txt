@@ -1,0 +1,113 @@
+
+# INDIAN FLIGHT FARE ANALYSIS AND PREDICTION
+
+## 1. Introduction
+
+The Indian Flight Fare Analysis and Prediction project aims to
+analyze historical flight ticket prices and predict estimated
+ticket fares using Machine Learning techniques.
+
+The project explores how airline, route, travel class, flight
+duration, number of stops, departure time and booking window
+influence flight ticket prices.
+
+## 2. Objectives
+
+1. Analyze Indian flight ticket price patterns.
+2. Compare fares across different airlines.
+3. Study source and destination route pricing.
+4. Analyze the impact of booking time on ticket prices.
+5. Examine flight duration and number of stops.
+6. Develop a Machine Learning model for fare prediction.
+7. Create an interactive prediction interface.
+
+## 3. Technologies Used
+
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-learn
+- Jupyter Notebook
+- IPyWidgets
+
+## 4. Dataset Description
+
+Dataset: Clean_Dataset.csv
+
+Total Records: 300153
+Total Columns: 13
+Unique Airlines: 6
+Unique Routes: 30
+
+Target Variable: price
+
+## 5. Methodology
+
+The project was completed through the following stages:
+
+1. Data loading and inspection.
+2. Data cleaning and preprocessing.
+3. Exploratory Data Analysis.
+4. Airline-wise fare analysis.
+5. Route-wise fare analysis.
+6. Booking window analysis.
+7. Flight duration and timing analysis.
+8. Machine Learning model development.
+9. Model evaluation and comparison.
+10. Interactive flight fare prediction.
+
+## 6. Machine Learning Model
+
+Selected Model: Random Forest
+
+Mean Absolute Error (MAE): 1058.33
+
+Mean Squared Error (MSE): 7173456.88
+
+Root Mean Squared Error (RMSE): 2678.33
+
+R2 Score: 0.9861
+
+## 7. Prediction System
+
+An interactive prediction interface was developed using
+IPyWidgets.
+
+Users can enter:
+- Airline
+- Flight number
+- Source city
+- Destination city
+- Departure time
+- Arrival time
+- Number of stops
+- Travel class
+- Flight duration
+- Days left before departure
+
+The trained model generates an estimated flight ticket price.
+
+## 8. Conclusion
+
+This project demonstrates how Python, data analysis and
+Machine Learning can be used to study flight fare patterns
+and estimate ticket prices.
+
+The interactive prediction system provides a convenient
+way to obtain estimated fares based on selected flight details.
+
+## 9. Future Scope
+
+- Develop a web application using Flask or Streamlit.
+- Integrate suitable live flight data APIs.
+- Explore additional Machine Learning algorithms.
+- Improve prediction performance using more data.
+- Deploy the model for practical use.
+
+## 10. Project Information
+
+Project Title: Indian Flight Fare Analysis and Prediction
+
+Report Generated: 18-11-2026
